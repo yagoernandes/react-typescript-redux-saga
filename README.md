@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is mostly boilerplate and shows the usage os React, Typescript, Redux and Redux-Saga. Eslint with all integrations was used.
 
 ## Available Scripts
 
