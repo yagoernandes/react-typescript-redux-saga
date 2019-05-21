@@ -29,6 +29,7 @@ module.exports = {
             extensions: ['.tsx'],
          },
       ],
+      "no-tabs": 0,
       'import/prefer-default-export': 'off',
       '@typescript-eslint/explicit-function-return-type': 'off',
       '@typescript-eslint/explicit-member-accessibility': 'off'
