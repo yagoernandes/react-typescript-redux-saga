@@ -1,4 +1,8 @@
-This project is mostly boilerplate and shows the usage os React, Typescript, Redux and Redux-Saga. Eslint with all integrations was used.
+# React + Redux + Saga
+
+### Template do Yagão
+
+
 
 ## Available Scripts
 
